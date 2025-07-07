@@ -1,4 +1,4 @@
-# Regulator proporcjinalny ciceczy
+# Regulator proporcjinalny cieczy
 sterowanie napełnianiem zbiornika
 # Regulator cieczy (Proportional Liquid Level Controller)  
 **CODESYS 3.5.21.0**
